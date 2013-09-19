@@ -1,0 +1,22 @@
+{
+  "name": "usta",
+  "version": "0.0.0",
+  "description": "Worker process coordinator for Node.JS clusters",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:eknkc/usta.git"
+  },
+  "keywords": [
+    "cluster",
+    "master"
+  ],
+  "author": "Ekin Koc",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.13.0"
+  }
+}
