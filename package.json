@@ -1,6 +1,6 @@
 {
   "name": "usta",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Worker process coordinator for Node.JS clusters",
   "main": "index.js",
   "scripts": {
@@ -15,8 +15,5 @@
     "master"
   ],
   "author": "Ekin Koc",
-  "license": "MIT",
-  "devDependencies": {
-    "mocha": "~1.13.0"
-  }
+  "license": "MIT"
 }
