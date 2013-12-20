@@ -1,6 +1,6 @@
 {
   "name": "usta",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Worker process coordinator for Node.JS clusters",
   "main": "index.js",
   "scripts": {
